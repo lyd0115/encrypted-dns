@@ -11,7 +11,7 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>202.182.110.55</string>
+					<string>202.182.110.55:8443</string>
 				</array>
 				<key>ServerURL</key>
 				<string>https://dongbie.tk:8443/dns-query</string>
